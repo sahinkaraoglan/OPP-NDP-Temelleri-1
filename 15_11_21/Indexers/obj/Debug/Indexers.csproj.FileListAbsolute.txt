@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\15_11_21\Indexers\bin\Debug\Indexers.exe.config
+C:\Users\Hp\source\repos\15_11_21\Indexers\bin\Debug\Indexers.exe
+C:\Users\Hp\source\repos\15_11_21\Indexers\bin\Debug\Indexers.pdb
+C:\Users\Hp\source\repos\15_11_21\Indexers\obj\Debug\Indexers.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\15_11_21\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\15_11_21\Indexers\obj\Debug\Indexers.exe
+C:\Users\Hp\source\repos\15_11_21\Indexers\obj\Debug\Indexers.pdb

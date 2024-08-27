@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\15_11_21\15_11_21\bin\Debug\15_11_21.exe.config
+C:\Users\Hp\source\repos\15_11_21\15_11_21\bin\Debug\15_11_21.exe
+C:\Users\Hp\source\repos\15_11_21\15_11_21\bin\Debug\15_11_21.pdb
+C:\Users\Hp\source\repos\15_11_21\15_11_21\obj\Debug\15_11_21.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\15_11_21\15_11_21\obj\Debug\15_11_21.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\15_11_21\15_11_21\obj\Debug\15_11_21.exe
+C:\Users\Hp\source\repos\15_11_21\15_11_21\obj\Debug\15_11_21.pdb

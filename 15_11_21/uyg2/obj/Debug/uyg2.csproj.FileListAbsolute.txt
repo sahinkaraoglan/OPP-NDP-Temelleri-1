@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\15_11_21\uyg2\bin\Debug\uyg2.exe.config
+C:\Users\Hp\source\repos\15_11_21\uyg2\bin\Debug\uyg2.exe
+C:\Users\Hp\source\repos\15_11_21\uyg2\bin\Debug\uyg2.pdb
+C:\Users\Hp\source\repos\15_11_21\uyg2\obj\Debug\uyg2.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\15_11_21\uyg2\obj\Debug\uyg2.exe
+C:\Users\Hp\source\repos\15_11_21\uyg2\obj\Debug\uyg2.pdb
